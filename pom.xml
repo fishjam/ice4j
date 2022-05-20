@@ -3,7 +3,7 @@
 
   <groupId>org.jitsi</groupId>
   <artifactId>ice4j</artifactId>
-  <version>3.0-SNAPSHOT</version>
+  <version>fishjam-debug</version>
 
   <name>ice4j</name>
   <description>A Java implementation of the ICE protocol</description>
@@ -38,7 +38,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <jicoco.version>1.1-104-g20c4353</jicoco.version>
+    <jicoco.version>fishjam-debug</jicoco.version>
     <kotlin.version>1.5.31</kotlin.version>
     <kotest.version>5.3.0</kotest.version>
     <junit.version>5.8.2</junit.version>
@@ -58,7 +58,7 @@
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>jitsi-utils</artifactId>
-      <version>1.0-114-g43815ed</version>
+      <version>fishjam-debug</version>
     </dependency>
     <dependency>
       <groupId>${project.groupId}</groupId>
